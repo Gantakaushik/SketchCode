@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SketchCode/static/css/main.26020490.css",
+    "main.js": "/SketchCode/static/js/main.afc79d21.js",
+    "static/js/787.2a67058f.chunk.js": "/SketchCode/static/js/787.2a67058f.chunk.js",
+    "index.html": "/SketchCode/index.html",
+    "main.26020490.css.map": "/SketchCode/static/css/main.26020490.css.map",
+    "main.afc79d21.js.map": "/SketchCode/static/js/main.afc79d21.js.map",
+    "787.2a67058f.chunk.js.map": "/SketchCode/static/js/787.2a67058f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26020490.css",
+    "static/js/main.afc79d21.js"
+  ]
+}
