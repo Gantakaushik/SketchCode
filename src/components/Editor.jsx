@@ -79,7 +79,8 @@ const Editor = ({ heading, language, value, onChange, icon, color }) => {
                     lint: true,
                     mode: language,
                     lineNumbers: true,
-                    theme: 'material'
+                    theme: 'material',
+                    // height: '100px'
                 }}
             />
         </Container>

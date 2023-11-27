@@ -6,6 +6,7 @@ import { Box, styled } from '@mui/material';
 
 const Container = styled(Box)`
     height: 41vh;
+    // margin-top: 20px;
 `
 
 const Result = () => {
